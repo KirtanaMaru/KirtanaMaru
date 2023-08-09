@@ -5,9 +5,9 @@
     I am a passionate programmer and computer science student. I love learning new programming languages and technologies.</p>
 <img src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif" alt="coder" align="right" width="400">
 <p align="justify">
-- 🌱 I’m currently learning Django,Javascript
+- 🌱 I’m currently learning Django 
 <br>
-- 💬 Ask me about Python ,Sql
+- 💬 Ask me about Python , Java , Sql
 <br>
 - 📫 How to reach me kirtanamaru123@gmail.com
 <br>
@@ -16,7 +16,7 @@
 </p>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/kirtana-maru-31460a255/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kirtanamaru" height="30" width="40" /></a><a href="https://www.hackerrank.com/P_G_M" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="kirtanamaru" height="30" width="40" /></a><a href="mailto:kirtanamaru123@gmail.com" target="_blank"><img align="center" src="https://user-images.githubusercontent.com/78341798/194531383-ddb2b774-5bb9-491c-b601-4a4a7d9792fb.svg" alt="gmail" height="30" width="40"/>
+<a href="https://www.linkedin.com/in/kirtana-maru-31460a255/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kirtanamaru" height="30" width="40" /></a><a href="https://www.hackerrank.com/Coder_K_M" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="kirtanamaru" height="30" width="40" /></a><a href="mailto:kirtanamaru123@gmail.com" target="_blank"><img align="center" src="https://user-images.githubusercontent.com/78341798/194531383-ddb2b774-5bb9-491c-b601-4a4a7d9792fb.svg" alt="gmail" height="30" width="40"/>
 </p>
 
 <h2 style="color: #44AEFB">⚙️ Languages and Tools</h2>
