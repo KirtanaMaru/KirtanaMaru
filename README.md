@@ -5,7 +5,7 @@
     I am a passionate programmer and computer science student. I love learning new programming languages and technologies.</p>
 <img src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif" alt="coder" align="right" width="400">
 <p align="justify">
-- 🌱 I’m currently learning Django 
+- 🌱 I’m currently learning Reactjs
 <br>
 - 💬 Ask me about Python , Java , Sql
 <br>
