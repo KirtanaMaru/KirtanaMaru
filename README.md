@@ -1,73 +1,88 @@
-<img src="https://media.istockphoto.com/id/1256473398/vector/kids-learning-to-coding-programming-in-online-it-school-engineering-courses-in-internet-for.jpg?s=612x612&w=0&k=20&c=oeUkdgXcTJp-r32NuJ1oUYNaXx9cTHqBY2KX0YXUeNw=" width="1200" height="300" alt="banner" />
+<img src="https://media.istockphoto.com/id/1256473398/vector/kids-learning-to-coding-programming-in-online-it-school-engineering-courses-in-internet-for.jpg?s=612x612&w=0&k=20&c=oeUkdgXcTJp-r32NuJ1oUYNaXx9cTHqBY2KX0YXUeNw=" width="100%" alt="banner" />
 
 <h1 align="center">Hi 👋, I'm Kirtana Maru</h1>
-<h3 align="center">A passionate full-stack developer from India 🇮🇳</h3>
+<h3 align="center">🚀 A Passionate Full-Stack Developer from India 🇮🇳</h3>
 
-<img src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif" alt="coder" align="right" width="400">
+<p align="center">
+  <img src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif" width="400" alt="coder" />
+</p>
 
-<p align="justify" style="font-size:17px; margin: 0 50px;">
-I'm a dedicated and curious full-stack developer who enjoys turning ideas into real-world applications. I’ve built several projects for clients and personal learning, ranging from service portals to complex e-commerce platforms.
+<p align="justify" style="font-size:17px;">
+I'm a curious and committed full-stack developer who loves transforming ideas into real-world solutions. With a portfolio of both client and personal projects, I specialize in crafting scalable web applications that are functional, responsive, and user-friendly.
 </p>
 
 ---
 
-### 🧩 Client Projects
+### 💼 Client Projects
 
 - 🚜 **E-Agriclave + E-Seva Kendra Website**  
-  A comprehensive rural service and citizen support platform for submitting EWS, PAN, Non-Creamy Layer certificates, and more. Built to support digital document management and streamline government service access.
+  Comprehensive rural service and citizen support system for managing EWS, PAN, and Non-Creamy Layer certificates with secure document handling.
 
 - 🎮 **Gaming Website**  
-  A responsive, browser-based game compatible with both desktop and mobile devices. Designed with a focus on fast performance and intuitive gameplay.
+  A cross-platform browser game built for seamless play on both mobile and desktop devices with responsive UI and smooth interactions.
 
 - 💰 **Financial Website**  
-  A loan and Business Correspondent (BC) management system. Includes features like data tables, financial dashboards, and mobile responsiveness for better accessibility.
+  A loan and BC (Business Correspondent) management system featuring dashboards, data tables, and mobile optimization for financial tracking.
 
 - 🎧 **Music & Social Playlist Website**  
-  A dynamic audio platform to stream categorized and latest songs. Features include user authentication, post creation, following/unfollowing users, saving songs/posts, and a chat system for social interaction.
+  A music streaming platform with social media elements. Users can explore songs by category, post updates, follow each other, chat, and save favorite content.
 
-- 🌞 **Sunbeam Education Website** *(In Progress)*  
-  A complete education management system for course and fee structuring. Admins can add courses, manage staff, allocate students, and generate receipts. Includes features like CAP rounds, exam form handling, and role-based access.
-
-
----
-
-### 🛠️ Personal Projects
-- 🧑‍💼 **Recruitment Portal** – Job posting and hiring platform with applicant management and user roles.
-- 🏘️ **Airbnb Clone** – Booking interface with location listings, authentication, and filtering.
-- 🛒 **E-Commerce Portal** – Online store with product pages, cart, wishlist, and order placement.
+- 🌞 **Sunbeam Education Website** *(Ongoing)*  
+  A course and fee management portal for an educational institution. Admin can manage staff, allocate students to courses, generate receipts, and handle CAP rounds and exam forms based on courses.
 
 ---
 
-### 👨‍💻 Technologies I Work With
+### 🌱 Personal Projects
+
+- 🧑‍💼 **Recruitment Portal**  
+  Full-featured job board with admin controls, applicant tracking, and role-based login.
+
+- 🏘️ **Airbnb Clone**  
+  Property booking interface with location filtering, user authentication, and detailed listing management.
+
+- 🛒 **E-Commerce Portal**  
+  End-to-end shopping app with cart, wishlist, product pages, and secure checkout functionality.
+
+---
+
+### 🛠️ Technologies I Work With
+
 <p align="center">
-  <a href="https://www.python.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40" alt="Python"/></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript"/></a>
-  <a href="https://reactjs.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40" height="40" alt="React"/></a>
-  <a href="https://expressjs.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="40" height="40" alt="Express"/></a>
-  <a href="https://www.mongodb.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="40" height="40" alt="MongoDB"/></a>
-  <a href="https://www.mysql.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40" alt="MySQL"/></a>
-  <a href="https://www.oracle.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" width="40" height="40" alt="Oracle SQL"/></a>
-  <a href="https://www.java.com/" target="_blank"><img src="https://icongr.am/devicon/java-original.svg" width="40" height="40" alt="Java"/></a>
-  <a href="https://www.php.net/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="40" height="40" alt="PHP"/></a>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" alt="Python"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40" alt="React"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40" height="40" alt="Express"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" height="40" alt="MongoDB"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="40" height="40" alt="MySQL"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" width="40" height="40" alt="Oracle"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40" alt="Java"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40" height="40" alt="PHP"/>
 </p>
 
 ---
 
-### 📫 Contact Me
+### 📫 Connect With Me
 
-<a href="https://www.linkedin.com/in/kirtana-maru-31460a255/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" alt="LinkedIn" /></a>
-<a href="https://www.hackerrank.com/Coder_K_M" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" height="30" width="40" alt="HackerRank" /></a>
-<a href="mailto:kirtanamaru123@gmail.com" target="_blank"><img align="center" src="https://user-images.githubusercontent.com/78341798/194531383-ddb2b774-5bb9-491c-b601-4a4a7d9792fb.svg" height="30" width="40" alt="Gmail"/></a>
+<p align="center">
+  <a href="https://www.linkedin.com/in/kirtana-maru-31460a255/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="40" alt="LinkedIn" />
+  </a>
+  <a href="https://www.hackerrank.com/Coder_K_M" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hackerrank/hackerrank-original.svg" height="40" alt="HackerRank" />
+  </a>
+  <a href="mailto:kirtanamaru123@gmail.com" target="_blank">
+    <img src="https://user-images.githubusercontent.com/78341798/194531383-ddb2b774-5bb9-491c-b601-4a4a7d9792fb.svg" height="40" alt="Gmail" />
+  </a>
+</p>
 
 ---
 
-### 📈 GitHub Stats
+### 📊 GitHub Stats
 
 <div align="center">
-  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=KirtanaMaru&hide=stars&count_private=true&show_icons=true&theme=algolia&border_radius=20)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KirtanaMaru&layout=compact&theme=algolia&border_radius=20)
+<img src="https://github-readme-stats.vercel.app/api?username=KirtanaMaru&show_icons=true&theme=radical&hide=stars&count_private=true&border_radius=20" width="450" alt="GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KirtanaMaru&layout=compact&theme=radical&border_radius=20" width="350" alt="Top Languages" />
 
 </div>
 
