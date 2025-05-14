@@ -12,11 +12,22 @@ I'm a dedicated and curious full-stack developer who enjoys turning ideas into r
 ---
 
 ### 🧩 Client Projects
-- 🚜 **E-Agriclave Center** – Rural service portal for EWS, PAN, Non-Creamy Layer certificates, and more.
-- 🏢 **E-Seva Kendra Website** – Public-facing platform for digital document submission and citizen support.
-- 🎮 **Gaming Website** – Mobile and desktop-compatible browser-based game.
-- 💰 **Financial Website** – Loan & BC management system with responsive design and data dashboards.
-- 🎧 **Audiobook Website** – Audio player site for listening to books in a clean and simple UI.
+
+- 🚜 **E-Agriclave + E-Seva Kendra Website**  
+  A comprehensive rural service and citizen support platform for submitting EWS, PAN, Non-Creamy Layer certificates, and more. Built to support digital document management and streamline government service access.
+
+- 🎮 **Gaming Website**  
+  A responsive, browser-based game compatible with both desktop and mobile devices. Designed with a focus on fast performance and intuitive gameplay.
+
+- 💰 **Financial Website**  
+  A loan and Business Correspondent (BC) management system. Includes features like data tables, financial dashboards, and mobile responsiveness for better accessibility.
+
+- 🎧 **Music & Social Playlist Website**  
+  A dynamic audio platform to stream categorized and latest songs. Features include user authentication, post creation, following/unfollowing users, saving songs/posts, and a chat system for social interaction.
+
+- 🌞 **Sunbeam Education Website** *(In Progress)*  
+  A complete education management system for course and fee structuring. Admins can add courses, manage staff, allocate students, and generate receipts. Includes features like CAP rounds, exam form handling, and role-based access.
+
 
 ---
 
